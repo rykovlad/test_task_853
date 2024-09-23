@@ -1,0 +1,12 @@
+
+
+write an api that will add all groups of all participants, a specific group on ID, connet students on ID,
+implement the creation of groups and participants on the api.
+implement the ability to update groups and participants.
+
+DB
+implement 2 models: groups and users (participants)
+1 to many between group tables and users
+
+implement a script on the telethon that will parse participants from certain groups and add them to the database
+

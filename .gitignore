@@ -1,0 +1,4 @@
+venv/
+.idea
+parser/tg_sessions/*
+*pycache*
